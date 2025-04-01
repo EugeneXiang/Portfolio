@@ -51,7 +51,7 @@ Applying for AI-related prompt evaluation or language strategy roles
 
 Building a modular GitHub portfolio demonstrating prompt testing, evaluator workflow, and LoRA-fine-tuning notes
 
-Exploring multilingual content experiments (EN-ZH-DE)
+Exploring multilingual content experiments (EN-ZH-NL)
 
 “不远行，无以自己——但我正在通过语言，观察AI的思维路径。”
 
